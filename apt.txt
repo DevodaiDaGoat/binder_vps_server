@@ -3,3 +3,4 @@ htop
 curl
 wget
 neofetch
+git
